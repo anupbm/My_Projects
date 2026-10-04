@@ -1,3 +1,7 @@
 This is my first file on git
+<<<<<<< HEAD
 This is my second line in the first file :)
 This is the third line of the file
+=======
+This is my second line in the first file :) 
+>>>>>>> b588a2f81fc56e42a75e567eeb9079b013ab25d5
